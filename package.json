@@ -16,7 +16,7 @@
     "mooremachine": "^2.1.0",
     "mname-client": "0.6.0",
     "posix-getopt": "1.0.0",
-    "restify": "4.3.2",
+    "restify": "11.1.0",
     "triton-metrics": "0.1.1",
     "ufds": "^1.7.1",
     "vasync": "2.1.0",
